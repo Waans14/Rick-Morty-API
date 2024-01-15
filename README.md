@@ -22,6 +22,7 @@ You may list what feature you created, example :
 ## <a name="libraries"></a> Libraries :
 You may list what libraries you used in this project, example :
 - AndroidX Libraries:
+  
   androidx.core:core-ktx:1.12.0: Provides Kotlin extensions for Android core libraries.
   androidx.appcompat:appcompat:1.6.1: Compatibility library for modern Android features on older devices.
   com.google.android.material:material:1.9.0: Material Design components and styles for Android.
@@ -30,6 +31,7 @@ You may list what libraries you used in this project, example :
   junit:junit:4.13.2: Unit testing framework for Java.
   androidx.test.ext:junit:1.1.5 and androidx.test.espresso:espresso-core:3.5.1: Espresso for UI testing on Android.
 - Image Handling Libraries:
+  
   de.hdodenhof:circleimageview:3.1.0: Circular ImageView for Android.
   com.github.bumptech.glide:glide:4.16.0: Image loading library for Android.
 - Networking Libraries:
@@ -37,16 +39,21 @@ You may list what libraries you used in this project, example :
   com.squareup.retrofit2:converter-gson:2.9.0: Gson converter for Retrofit.
   com.squareup.okhttp3:logging-interceptor:4.11.0: Logging interceptor for OkHttp.
 - Paging Library:
+  
   androidx.paging:paging-runtime-ktx:3.2.1: Library for gradually loading information on demand from data sources.
 - Lifecycle and Activity Libraries:
+  
   androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0 and androidx.lifecycle:lifecycle-livedata-ktx:2.7.0: Kotlin extensions for ViewModel and LiveData.
   androidx.activity:activity-ktx:1.8.2: Kotlin extensions for Activity
 - Coroutines Library:
+  
   org.jetbrains.kotlinx:kotlinx-coroutines-core:1.7.1 and org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.1: Kotlin Coroutines for asynchronous programming.
 - Room Database:
+  
   androidx.room:room-runtime:2.6.1: Persistence library for Android, part of Android Jetpack.
   androidx.room:room-compiler:2.6.1: Annotation processor for Room.
 - Testing Libraries:
+  
   androidx.room:room-testing:2.6.1: Testing components for Room.
   androidx.arch.core:core-testing:2.2.0: Testing components for Android Architecture Components.
   org.jetbrains.kotlinx:kotlinx-coroutines-test:1.5.0: Testing utilities for Coroutines.
