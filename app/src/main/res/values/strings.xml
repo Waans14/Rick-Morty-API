@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Take Home Challenge</string>
+    <string name="nama_karakter">Nama Karakter</string>
+    <string name="searchbar_hint">Cari Karakter</string>
+    <string name="favorite">Favorite</string>
+    <string name="species">Species</string>
+    <string name="about">About</string>
+    <string name="gender">Gender</string>
+    <string name="status">Status</string>
+    <string name="origin">Origin</string>
+    <string name="location">Location</string>
+</resources>
