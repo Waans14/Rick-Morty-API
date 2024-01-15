@@ -54,14 +54,14 @@ You may list what libraries you used in this project, example :
   
 ## <a name="project-structures"></a> Project Structure :
 * `data`
-* `di`
-* `local`
-* `remote`
-* `repository`
+  * `di`
+  * `local`
+  * `remote`
+  * `repository`
 * `ui`
-* `detail`
-* `favorite`
-* `main`
+  * `detail`
+  * `favorite`
+  * `main`
 * `utils`
 
 
