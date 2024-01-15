@@ -12,7 +12,6 @@ BIGIO Mobile Dev - Take Home Challenge
 - [APK Link](#apk-link)
 
 ## <a name="features"></a> Features :
-You may list what feature you created, example :
 - List of character
 - Detail character
 - Favorite character
@@ -20,7 +19,6 @@ You may list what feature you created, example :
 
 
 ## <a name="libraries"></a> Libraries :
-You may list what libraries you used in this project, example :
 - AndroidX Libraries:
   - androidx.core:core-ktx:1.12.0: Provides Kotlin extensions for Android core libraries.
   - androidx.appcompat:appcompat:1.6.1: Compatibility library for modern Android features on older devices.
