@@ -34,7 +34,7 @@ You may list what libraries you used in this project, example :
   - com.github.bumptech.glide:glide:4.16.0: Image loading library for Android.
 - Networking Libraries:
   - com.squareup.retrofit2:retrofit:2.9.0: Type-safe HTTP client for Android and Java.
- -  com.squareup.retrofit2:converter-gson:2.9.0: Gson converter for Retrofit.
+  - com.squareup.retrofit2:converter-gson:2.9.0: Gson converter for Retrofit.
   - com.squareup.okhttp3:logging-interceptor:4.11.0: Logging interceptor for OkHttp.
 - Paging Library:
   - androidx.paging:paging-runtime-ktx:3.2.1: Library for gradually loading information on demand from data sources.
@@ -42,7 +42,7 @@ You may list what libraries you used in this project, example :
   - androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0 and androidx.lifecycle:lifecycle-livedata-ktx:2.7.0: Kotlin extensions for ViewModel and LiveData.
   - androidx.activity:activity-ktx:1.8.2: Kotlin extensions for Activity
 - Coroutines Library:
- -  org.jetbrains.kotlinx:kotlinx-coroutines-core:1.7.1 and org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.1: Kotlin Coroutines for asynchronous programming.
+  - org.jetbrains.kotlinx:kotlinx-coroutines-core:1.7.1 and org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.1: Kotlin Coroutines for asynchronous programming.
 - Room Database:
   - androidx.room:room-runtime:2.6.1: Persistence library for Android, part of Android Jetpack.
   - androidx.room:room-compiler:2.6.1: Annotation processor for Room.
@@ -50,7 +50,7 @@ You may list what libraries you used in this project, example :
   - androidx.room:room-testing:2.6.1: Testing components for Room.
   - androidx.arch.core:core-testing:2.2.0: Testing components for Android Architecture Components.
   - org.jetbrains.kotlinx:kotlinx-coroutines-test:1.5.0: Testing utilities for Coroutines.
- -  org.mockito:mockito-core:4.4.0 and org.mockito:mockito-inline:4.4.0: Mockito for mocking in tests.
+  - org.mockito:mockito-core:4.4.0 and org.mockito:mockito-inline:4.4.0: Mockito for mocking in tests.
   
 ## <a name="project-structures"></a> Project Structure :
 * `data`
@@ -66,4 +66,4 @@ You may list what libraries you used in this project, example :
 
 
 ## <a name="apk-link"></a> APK Link :
-Upload your apk to google drive and attach the link here
+https://drive.google.com/file/d/16mfC5l0QjUUXI8fLgXsLxkkw3U5YJYLv/view
